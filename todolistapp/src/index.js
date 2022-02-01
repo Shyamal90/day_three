@@ -1,13 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Todo from './components/Todo';
+import Grocery from './components/Grocery';
+
 
 
 
 ReactDOM.render(
   <>
-    <h1>Todo List</h1>
-    <Todo />
+    <h1>Grocery list management application in React.</h1>
+    <Grocery />
   </>,
   document.getElementById('root')
 );

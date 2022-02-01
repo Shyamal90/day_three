@@ -1,0 +1,12 @@
+.container{
+    border: 1px solid rgb(230, 230, 230);
+    width: 20%;
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+    margin: 30px 10px;
+    padding: 5px 1px;
+}
+
+.container button{
+    margin-left: 10px;
+}

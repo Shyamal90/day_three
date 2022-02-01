@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-function TodoInput({onClick}) {
+function GroceryInput({onClick}) {
 
     const [title, setTitle] = useState("");
     return (
@@ -13,4 +13,4 @@ function TodoInput({onClick}) {
     )
 }
 
-export default TodoInput
+export default GroceryInput
